@@ -6,22 +6,22 @@ Configure your MoveIt library. You can find detailed installation steps on offic
 
 1. Also, you need to delete `<#include <moveit_visual_tools/moveit_visual_tools.h>>`, because it's not required in Noetic.
 
-## Source your setup.bash**
+## Source your setup.bash
 ```javascript
 source devel/setup.bash
 ```
 
-## Launch Gazebo**
+## Launch Gazebo
  ```javascript
 roslaunch gazebo_robot moveit_gazebo.launch
 ```
 
-## Launch RVIZ**
+## Launch RVIZ
  ```javascript
 roslaunch moveit_package moveit_planning_execution.launch
 ```
 
-## Run your node**
+## Run your node
  ```javascript
 rosrun lab4catkin lab4catkin
 ```
