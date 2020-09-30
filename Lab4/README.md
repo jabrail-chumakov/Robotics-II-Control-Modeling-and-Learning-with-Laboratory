@@ -26,11 +26,12 @@ roslaunch moveit_package moveit_planning_execution.launch
 rosrun lab4catkin lab4catkin
 ```
 ## Node moving on a straight line
-Don't forget to change name of the test file on test.cpp
-
-## Node that draws a rectangle
+Don't forget to change name of the test file on test_(movement_type).cpp and executables in CMakeLists.txt
+https://www.youtube.com/watch?v=6v5-ZtErJSk&feature=youtu.be
 
 ## Node that draws a circle
+
+## Node that draws a rectangle
 
 
 
