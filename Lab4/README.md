@@ -8,7 +8,16 @@ Configure your MoveIt library. You can find detailed installation steps on offic
 
 **Source your setup.bash**:
 
- ```source devel/setup.bash```
+ source devel/setup.bash
 
 **Launch Gazebo**: 
-> roslaunch gazebo_robot moveit_gazebo.launch
+ roslaunch gazebo_robot moveit_gazebo.launch
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
