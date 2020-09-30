@@ -12,7 +12,8 @@ source devel/setup.bash
 ```
 
 **Launch Gazebo**: 
- roslaunch gazebo_robot moveit_gazebo.launch
-
+ ```javascript
+roslaunch gazebo_robot moveit_gazebo.launch
+```
 
 
