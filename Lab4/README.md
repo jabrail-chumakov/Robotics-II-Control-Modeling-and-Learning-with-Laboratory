@@ -8,7 +8,7 @@ Configure your MoveIt library. You can find detailed installation steps on offic
 
 **Source your setup.bash**:
 ```javascript
-   source devel/setup.bash
+source devel/setup.bash
 ```
 
 **Launch Gazebo**: 
