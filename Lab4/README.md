@@ -27,8 +27,8 @@ rosrun lab4catkin lab4catkin
 ```
 ## Node moving on a straight line
 Don't forget to change name of the test file on test_(movement_type).cpp and executables in CMakeLists.txt
-https://www.youtube.com/watch?v=6v5-ZtErJSk&feature=youtu.be
 
+Below you can watch a video on how manipulator moves along a straight line
 [![Watch the video](http://i3.ytimg.com/vi/6v5-ZtErJSk/hqdefault.jpg)](https://www.youtube.com/watch?v=6v5-ZtErJSk&feature=youtu.be)
 
 ## Node that draws a circle
