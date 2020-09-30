@@ -29,6 +29,8 @@ rosrun lab4catkin lab4catkin
 Don't forget to change name of the test file on test_(movement_type).cpp and executables in CMakeLists.txt
 https://www.youtube.com/watch?v=6v5-ZtErJSk&feature=youtu.be
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6v5-ZtErJSk&feature=youtu.be)
+
 ## Node that draws a circle
 
 ## Node that draws a rectangle
