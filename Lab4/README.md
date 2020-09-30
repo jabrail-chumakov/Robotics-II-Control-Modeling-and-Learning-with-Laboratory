@@ -7,17 +7,12 @@ Configure your MoveIt library. You can find detailed installation steps on offic
 1. Also, you need to delete `<#include <moveit_visual_tools/moveit_visual_tools.h>>`, because it's not required in Noetic.
 
 **Source your setup.bash**:
-
- ```javascript source devel/setup.bash```
+```javascript
+   source devel/setup.bash
+```
 
 **Launch Gazebo**: 
  roslaunch gazebo_robot moveit_gazebo.launch
 
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+
