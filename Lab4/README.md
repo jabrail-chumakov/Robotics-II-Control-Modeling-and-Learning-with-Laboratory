@@ -38,5 +38,5 @@ Below you can watch a video on how manipulator moves along a straight line
 
 ## Node that draws a rectangle
 
-[![Watch the video](https://img.youtube.com/vi/Yplz1VXiJ0M/mqdefault.jpg)](https://www.youtube.com/watch?v=Yplz1VXiJ0M)
+[![Watch the video](https://img.youtube.com/vi/Yplz1VXiJ0M/hqdefault.jpg)](https://www.youtube.com/watch?v=Yplz1VXiJ0M)
 
