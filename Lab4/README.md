@@ -26,6 +26,7 @@ roslaunch moveit_package moveit_planning_execution.launch
 rosrun lab4catkin lab4catkin
 ```
 ## Node moving on a straight line
+Don't forget to change name of the test file on test.cpp
 
 ## Node that draws a rectangle
 
