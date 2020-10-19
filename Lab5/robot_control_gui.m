@@ -1,16 +1,6 @@
-% Also define the workspace vectors:
-%   qz         zero joint angle configuration
-%   qr         vertical 'READY' configuration
-%   qstretch   arm is stretched out in the X direction
-%   qn         arm is at a nominal non-singular configuration
-
 clear L
 deg = pi/180;
 
-% joint angle limits from 
-% A combined optimization method for solving the inverse kinematics problem...
-% Wang & Chen
-% IEEE Trans. RA 7(4) 1991 pp 489-
 L(1) = Revolute('d', 1, 'a', 0, 'alpha', pi/2, ...
     'I', [0, 0, 0], ...
     'm', 0, ...
@@ -38,9 +28,7 @@ L(3) = Revolute('d', 0, 'a', 1, 'alpha', 0,  ...
     'Tc', 10e-4, ...
     'qlim', [-90 90]*deg );
 
-
 puma_three_joints = SerialLink(L, 'name', 'puma_three_joints');
-clear L
 
 figure(1)
 puma_three_joints.plot([0 pi/2 0])
