@@ -50,7 +50,6 @@ j0 = puma_three_joints.jacob0([0 pi/2 0]);
 taug0 = puma_three_joints.gravload([0 0 1]);
 t_0 = j0.*taug0;
 
-%Hold position
 j1 = puma_three_joints.jacob0([0 0 0]);
 taug1 = puma_three_joints.gravload([0 0 1]);
 t_1 = j1.*taug1;
