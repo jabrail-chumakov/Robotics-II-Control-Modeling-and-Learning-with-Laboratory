@@ -1,7 +1,7 @@
 # Assignment 5 
-Install Matlab, Robotics ToolBox from Peter Corke's website [RTB](http://www.petercorke.com/).   
+Install Matlab, Robotics ToolBox from Peter Corke's website [RTB](http://www.petercorke.com/), as well as `Puma560_Model.m` and `rvctools`.   
 
-## Step 1
+## Description
 
 
 ## Step 2
