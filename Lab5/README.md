@@ -5,6 +5,7 @@ Install Matlab, Robotics ToolBox from Peter Corke's website [RTB](http://www.pet
 In this assigment it was required to model the robot by using ToolBox in MATLAB with DH parameters. As a template I used Puma560 model with 3 links only. After you run my scipt, GUI should appear, where user can control each joint. 
 
 ## Why the torques are different for different configurations? 
+Bacause it directly proportional to Jacobian matrix
 
 ## Video demonstration
 
