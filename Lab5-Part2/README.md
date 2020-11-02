@@ -16,7 +16,7 @@ Joint positions PID + inverse dynamic model (variable `Arm`) + joint velocity PI
 
 ## Simulink Model
 ### 1st model
-You need to create simulink model by using the blocks provided in the file `rvctools/simulink/roblocks.mdl`. By using following values initial position θ<sub>init</sub>=[0 0 0], `final position θ<sub>final</sub>=[90 -45 -45]`, `duration of the movement t=2s` you need to control the robot joints by providing a smooth trajectory. You need to implement it by using `“jtraj”` block (included in the file `roblocks.mdl`) and by using a simple MIMO proportional controller (based on position error)
+You need to create simulink model by using the blocks provided in the file `rvctools/simulink/roblocks.mdl`. By using following values initial position θ<sub>init</sub>=[0 0 0], final position θ<sub>final</sub>=[90 -45 -45 and duration of the movement t=2s, you need to control the robot joints by providing a smooth trajectory. You need to implement it by using `"jtraj"` block (included in the file `roblocks.mdl`) and by using a simple MIMO proportional controller (based on position error.
 
 ## Why the torques are different for different configurations? 
 Bacause it directly proportional to Jacobian matrix
