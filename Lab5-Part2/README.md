@@ -33,7 +33,7 @@ Bacause it directly proportional to Jacobian matrix
 
 Below you can watch a video on how script works:
 
-[![Watch the video]()]()
+[![Watch the video](http://i3.ytimg.com/vi/c6LJVWnKfDc/maxresdefault.jpg)](https://www.youtube.com/watch?v=c6LJVWnKfDc)
 
 
 ## Good Luck!
