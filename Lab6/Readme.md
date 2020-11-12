@@ -23,6 +23,10 @@ Number of epochs is the number of times the whole training data is shown to the 
 ### Batch size
 Mini batch size is the number of sub samples given to the network after which parameter update happens. In my case I used `32`.
 
+## First observations
+With the initial code, the error was large enough and was equal to `0.2887` or `28.87 %`.
+![alt text](https://ibb.co/ZXMcwLS)
+
 ## Video demonstration
 Below you can watch a demonstration of simulink models for different approaches:
 
