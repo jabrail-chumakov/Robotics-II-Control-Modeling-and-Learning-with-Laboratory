@@ -16,8 +16,14 @@ eluLayer - an ELU activation layer performs the identity operation on positive i
 ```javascript
 reluLayer - a ReLU layer performs a threshold operation to each element of the input, where any value less than zero is set to zero.
 ```
-## Video demonstration
 
+### Number of epochs
+Number of epochs is the number of times the whole training data is shown to the network while training. We need to increase the number of epochs until the validation accuracy starts decreasing even when training accuracy is increasing(overfitting). In my case I used `200`
+
+### Batch size
+Mini batch size is the number of sub samples given to the network after which parameter update happens. In my case I used `32`.
+
+## Video demonstration
 Below you can watch a demonstration of simulink models for different approaches:
 
 [![Watch the video](http://i3.ytimg.com/vi/c6LJVWnKfDc/maxresdefault.jpg)](https://www.youtube.com/watch?v=c6LJVWnKfDc)
