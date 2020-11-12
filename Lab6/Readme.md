@@ -27,11 +27,9 @@ Mini batch size is the number of sub samples given to the network after which pa
 With the initial code, the error was large enough and was equal to `0.2887` or `28.87 %`.
 ![1st results](https://user-images.githubusercontent.com/67557966/98992309-dcfa4c80-254e-11eb-915e-856c669ea91b.jpg)
 
-## Video demonstration
-Below you can watch a demonstration of simulink models for different approaches:
-
-[![Watch the video](http://i3.ytimg.com/vi/c6LJVWnKfDc/maxresdefault.jpg)](https://www.youtube.com/watch?v=c6LJVWnKfDc)
-
+## Final results
+In order to minimize the error, I used the activation layers described above, also increased the `maxEpochs` and lowered the `miniBatchSize`. By using such values, I was able to reduce the error to `3.2 %`. I tried to make the error even smaller, but unfortunately, I could not achieve results below it.
+![final results](https://user-images.githubusercontent.com/67557966/98996810-4ed59480-2555-11eb-9145-996634e1c769.jpg)
 
 ## Good Luck!
 
