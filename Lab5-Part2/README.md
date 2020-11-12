@@ -31,7 +31,7 @@ Bacause it directly proportional to Jacobian matrix
 
 ## Video demonstration
 
-Below you can watch a demonstration of simulink models:
+Below you can watch a demonstration of simulink models for different approaches:
 
 [![Watch the video](http://i3.ytimg.com/vi/c6LJVWnKfDc/maxresdefault.jpg)](https://www.youtube.com/watch?v=c6LJVWnKfDc)
 
