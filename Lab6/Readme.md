@@ -25,7 +25,7 @@ Mini batch size is the number of sub samples given to the network after which pa
 
 ## First observations
 With the initial code, the error was large enough and was equal to `0.2887` or `28.87 %`.
-
+![1st results](https://user-images.githubusercontent.com/67557966/98992309-dcfa4c80-254e-11eb-915e-856c669ea91b.jpg)
 
 ## Video demonstration
 Below you can watch a demonstration of simulink models for different approaches:
