@@ -24,12 +24,12 @@ Number of epochs is the number of times the whole training data is shown to the 
 Mini batch size is the number of sub samples given to the network after which parameter update happens. In my case I used `32`.
 
 ## First observations
-With the initial code, the error was large enough and was equal to `0.2887` or `28.87 %`.
-![1st results](https://user-images.githubusercontent.com/67557966/98992309-dcfa4c80-254e-11eb-915e-856c669ea91b.jpg)
+With the initial code, the error was large enough and was equal to `0.4561` or `45.61 %`.
+![1](https://user-images.githubusercontent.com/67557966/99149893-a8070a80-26b2-11eb-9180-ee6fade73d53.jpg)
 
 ## Final results
-In order to minimize the error, I used the activation layers described above, also increased the `maxEpochs` and lowered the `miniBatchSize`. By using such values, I was able to reduce the error to `3.2 %`. I tried to make the error even smaller, but unfortunately, I could not achieve results below it.
-![final results](https://user-images.githubusercontent.com/67557966/98996810-4ed59480-2555-11eb-9145-996634e1c769.jpg)
+In order to minimize the error, I used the activation layers described above, also increased the `data size`, `maxEpochs` and lowered the `miniBatchSize`. By using such values, I was able to reduce the error to `17.19 %`. I tried to make the error even smaller, but unfortunately, I could not achieve results below it.
+![2](https://user-images.githubusercontent.com/67557966/99149993-45fad500-26b3-11eb-8fc9-c1894d4933f3.png)
 
 ## Good Luck!
 
