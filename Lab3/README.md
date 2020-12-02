@@ -29,11 +29,12 @@ rostopic pub /robot/joint5_position_controller/command std_msgs/Float64 "data = 
 ![square max](https://user-images.githubusercontent.com/67557966/100879003-b6379200-34cc-11eb-8f7e-fe85dec201f8.jpg)
 
 ## Sin wave for high P
-![28521080-682e-4608-a61e-916bc1bb42af](https://user-images.githubusercontent.com/67557966/100879128-e2eba980-34cc-11eb-80c3-79fcf02d0b1f.jpg)
+![e3170062-0bb4-4309-a666-6124a76047b5](https://user-images.githubusercontent.com/67557966/100879384-2f36e980-34cd-11eb-8652-27776997d0d8.jpg)
 
 ## Square wave for low P
-![dc147f01-3942-4b16-8776-9dcbcaccd69e](https://user-images.githubusercontent.com/67557966/100879178-f5fe7980-34cc-11eb-97cc-4708b89f2688.jpg)
+![b7bfb197-3f88-4fe3-a5d1-36c2f0c775f7](https://user-images.githubusercontent.com/67557966/100879468-4b3a8b00-34cd-11eb-8baa-ecbef0912fee.jpg)
 
 ## Sin wave for low P
-![bfcc0c2f-561a-4275-a301-4e165b71dba4](https://user-images.githubusercontent.com/67557966/100879245-07478600-34cd-11eb-8694-1a2aa9e3c966.jpg)
+![2174fc23-4709-4c23-b0fd-39140002c3d2](https://user-images.githubusercontent.com/67557966/100879551-61484b80-34cd-11eb-8827-a56b01dabd1d.jpg)
+
 
