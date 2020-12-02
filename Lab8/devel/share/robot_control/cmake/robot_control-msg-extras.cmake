@@ -1,0 +1,2 @@
+set(robot_control_MESSAGE_FILES "/home/jabrail/rl_ws/src/robot_control/msg/coord.msg;/home/jabrail/rl_ws/src/robot_control/msg/state.msg;/home/jabrail/rl_ws/src/robot_control/msg/accelerometr.msg;/home/jabrail/rl_ws/src/robot_control/msg/tactile.msg;/home/jabrail/rl_ws/src/robot_control/msg/rigid.msg;/home/jabrail/rl_ws/src/robot_control/msg/fsrInput.msg;/home/jabrail/rl_ws/src/robot_control/msg/newtactile.msg;/home/jabrail/rl_ws/src/robot_control/msg/contact.msg")
+set(robot_control_SERVICE_FILES "")
