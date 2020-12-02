@@ -27,7 +27,7 @@ rostopic pub /robot/joint5_position_controller/command std_msgs/Float64 "data = 
 ```
 ## Square wave
 For P = 25000
-[![Watch the video](https://ibb.co/3k4ddLW)]
+(https://ibb.co/3k4ddLW)
 
 ## Node that draws a circle
 
