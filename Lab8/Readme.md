@@ -1,5 +1,5 @@
 # Assignment 8
-Modify some parameters (reward function; qlearn hyper parameters; number of episodes, step; sample angle) and observe how it affects the training phase. (https://github.com/fenixkz/rl_ws).   
+Modify some parameters (reward function; qlearn hyper parameters; number of episodes, step; sample angle) and observe how it affects the training phase. [rl_ws](https://github.com/fenixkz/rl_ws).   
 
 ## For ROS Noetic Ninjemys only
 1. You need to add some changes in `gazebo.launch` file. Find these text: `param name="robot_description"` and replace `$(find xacro)/xacro.py` on `$(find xacro)/xacro --inorder`. This will solve problem with gazebo launch. 
