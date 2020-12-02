@@ -25,15 +25,15 @@ rqt
  ```javascript
 rostopic pub /robot/joint5_position_controller/command std_msgs/Float64 "data = 1"
 ```
-## Square wave
-For P = 25000
-(https://ibb.co/3k4ddLW)
+## Square wave for high P
+![square max](https://user-images.githubusercontent.com/67557966/100879003-b6379200-34cc-11eb-8f7e-fe85dec201f8.jpg)
 
-## Node that draws a circle
+## Sin wave for high P
+![28521080-682e-4608-a61e-916bc1bb42af](https://user-images.githubusercontent.com/67557966/100879128-e2eba980-34cc-11eb-80c3-79fcf02d0b1f.jpg)
 
-[![Watch the video](http://i3.ytimg.com/vi/QPuplEMZ1ew/hqdefault.jpg)](https://www.youtube.com/watch?v=QPuplEMZ1ew)
+## Square wave for low P
+![dc147f01-3942-4b16-8776-9dcbcaccd69e](https://user-images.githubusercontent.com/67557966/100879178-f5fe7980-34cc-11eb-97cc-4708b89f2688.jpg)
 
-## Node that draws a rectangle
-
-[![Watch the video](https://img.youtube.com/vi/Yplz1VXiJ0M/hqdefault.jpg)](https://www.youtube.com/watch?v=Yplz1VXiJ0M)
+## Sin wave for low P
+![bfcc0c2f-561a-4275-a301-4e165b71dba4](https://user-images.githubusercontent.com/67557966/100879245-07478600-34cd-11eb-8694-1a2aa9e3c966.jpg)
 
